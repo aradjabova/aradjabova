@@ -2,11 +2,11 @@
 
 ### Intro
 
+😄 Pronouns: She/Her/Hers   <br>
+💬 Talk me about anything! I am always open to talk and discuss everything.    <br>
 🔭 I’m currently working on SQL databases and analysis   <br>
 🌱 I’m currently learning cloud computing      <br>
 🤔 I’m looking for help with understanding the ins and outs of cloud computing     <br>
-💬 Talk me about anything! I am always open to talk and discuss everything.    <br>
-😄 Pronouns: She/Her/Hers   <br>
 ⚡ Fun fact: I really like hiking and Marvel Superheros (especially Iron Man)    <br>
 
 
