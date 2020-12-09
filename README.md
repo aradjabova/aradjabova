@@ -78,4 +78,4 @@ Whether you have a question or just want someone to talk to about anything relat
 
 ***
 
-[![Alisa's GitHub Stats}](https://github-readme-stats.vercel.app/api?username=aradjabova)](https://github.com/aradjabova/github-readme-stats )
+![Alisa's github stats](https://github-readme-stats.vercel.app/api?username=aradjabova&show_icons=true&theme=radical)
