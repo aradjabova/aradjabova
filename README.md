@@ -1,14 +1,16 @@
-## Hi there 👋
+## Welcome to My Github! 👋
 
 ### Intro
 
+😄 Pronouns: She/Her/Hers   <br>
+💬 Talk me about anything! I am always open to talk and discuss everything.    <br>
 🔭 I’m currently working on SQL databases and analysis   <br>
 🌱 I’m currently learning cloud computing      <br>
 🤔 I’m looking for help with understanding the ins and outs of cloud computing     <br>
-💬 Talk me about anything! I am always open to talk and discuss everything.    <br>
-😄 Pronouns: She/Her/Hers   <br>
-⚡ Fun fact: I really like hiking and Marvel Superheros (especially Iron Man)    <br>
+⚡ Fun fact: I really like hiking and Marvel Superheros (especially Iron Man)[<img align="right" alt="Ironman" width="50" style="margin:10px" src="./images/ironman.png" />
 
+
+<br>
 
 ---
 
@@ -36,7 +38,8 @@ Whether you have a question or just want someone to talk to about anything relat
 [<img align="left" alt="Medium" width="60" style="margin:10px" src="./images/medium.png" />]( https://alisaradjabova.medium.com/)
 [<img align="left" alt="Email" width="30" style="margin:10px" src="./images/email.png" />]( mailto:alisaradjabova@gmail.com)
 
-
+<br>
+<br>
 
 ---
 
@@ -51,6 +54,10 @@ Whether you have a question or just want someone to talk to about anything relat
 <img align="left" alt="Terminal" width="35" style="margin:10px" src="./images/ibmdb2.png" />
 
 
+<br>
+<br>
+
+
 <img align="left" alt="Microsoft" width="30" style="margin:10px" src="./images/microsoft.png" />
 <img align="left" alt="Colab" width="40" style="margin:8px" src="./images/colab.png" />
 <img align="left" alt="Jupyter" width="35" style="margin:10px" src="./images/jupyter.png" />
@@ -58,7 +65,8 @@ Whether you have a question or just want someone to talk to about anything relat
 <img align="left" alt="Cognos" width="40" style="margin:10px;padding-top: 10px" src="./images/cognos.png" />
 <img align="left" alt="Excel" width="40" style="margin:10px" src="./images/excel.png" />
 
-
+<br>
+<br>
 
 <img align="left" alt="Numpy" width="60" style="margin:10px" src="./images/numpy.png" />
 <img align="left" alt="Pandas" width="65" style="margin:10px" src="./images/pandas.png" />
@@ -67,8 +75,9 @@ Whether you have a question or just want someone to talk to about anything relat
 <img align="left" alt="Sklearn" width="35" style="margin:10px" src="./images/sklearn.png" />
 <img align="left" alt="Keras" width="60" style="margin:10px" src="./images/keras.png" />
 
-
+<br>
+<br>
 
 ***
 
-[![Alisa's GitHub Stats}](https://github-readme-stats.vercel.app/api?username=aradjabova)](https://github.com/aradjabova/github-readme-stats )
+![Alisa's github stats](https://github-readme-stats.vercel.app/api?username=aradjabova&show_icons=true&theme=tokyonight)
