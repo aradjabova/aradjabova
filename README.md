@@ -7,8 +7,10 @@
 🔭 I’m currently working on SQL databases and analysis   <br>
 🌱 I’m currently learning cloud computing      <br>
 🤔 I’m looking for help with understanding the ins and outs of cloud computing     <br>
-⚡ Fun fact: I really like hiking and Marvel Superheros (especially Iron Man)[<img align="left" alt="Ironman" width="80" style="margin:10px" src="./images/ironman.png" />]   <br>
+⚡ Fun fact: I really like hiking and Marvel Superheros (especially Iron Man)[<img align="right" alt="Ironman" width="50" style="margin:10px" src="./images/ironman.png" />
 
+
+<br>
 
 ---
 
