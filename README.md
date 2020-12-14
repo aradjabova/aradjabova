@@ -1,5 +1,4 @@
 ## Welcome to My Github! 👋
-![Welcome](https://loading.io/asset/434277)
 
 
 ### Intro
